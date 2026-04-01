@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-    <h2>Hugging Face Object Detection, Instance Segmentation, Semantic Segmentation, <br/> Panoptic Segmentation in PyTorch Fine-tuning </h2>
+    <h3>Hugging Face Object Detection, Instance Segmentation, Semantic Segmentation, <br/> Panoptic Segmentation in PyTorch Fine-tuning </h3>
 </div>
