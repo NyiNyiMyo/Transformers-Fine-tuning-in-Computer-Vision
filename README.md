@@ -39,11 +39,11 @@
 
 - [x] [SegFormer](https://huggingface.co/docs/transformers/en/model_doc/segformer)
 - [x] [MaskFormer](https://huggingface.co/docs/transformers/en/model_doc/maskformer)
-- [x] [Mask2Former](https://huggingface.co/docs/transformers/en/model_doc/mask2former) 
+- [x] [Mask2Former](https://huggingface.co/docs/transformers/en/model_doc/mask2former)
+- [x] [BEiT](https://huggingface.co/docs/transformers/en/model_doc/beit) 
+- [ ] [DPT](https://huggingface.co/docs/transformers/en/model_doc/dpt) (Coming Soon)
 - [ ] [OneFormer](https://huggingface.co/docs/transformers/en/model_doc/oneformer) (Coming Soon)
 - [ ] [EoMT](https://huggingface.co/docs/transformers/en/model_doc/eomt) (Coming Soon)
-- [ ] [BEiT](https://huggingface.co/docs/transformers/en/model_doc/beit) (Coming Soon)
-- [ ] [DPT](https://huggingface.co/docs/transformers/en/model_doc/dpt) (Coming Soon)
 
 </details>
 
